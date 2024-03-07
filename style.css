@@ -1,0 +1,26 @@
+
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.bg-success{
+    background-color: rgb(8, 66, 8) !important;
+}
+.navbar {
+    background-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.navbar.sticky-top {
+    background-color: #728a57; /* Set the background color when sticky */
+}
+.bg_banner{
+    background-color: rgb(147, 184, 147);
+}
+.carousel_width{
+    width: 90%;
+    margin: o auto;
+}
+.banner_font{
+    font-size: 30px;
+}
