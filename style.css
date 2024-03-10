@@ -19,8 +19,5 @@ body{
 }
 .carousel_width{
     width: 90%;
-    margin: o auto;
-}
-.banner_font{
-    font-size: 30px;
+    margin: 0 auto;
 }
