@@ -22,7 +22,7 @@ body {
 }
 
 .carousel_width {
-    width: 90%;
+    width: 98%;
     margin: 0 auto;
 }
 
@@ -36,6 +36,12 @@ body {
     box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
 }
 
+.card_title_text{
+    background-color: #728a57;
+    padding: 2px 8px;
+    border-radius: 5px;
+    color: #fff;
+}
 .knowMore_btn_container {
     background-color: #728a57;
     margin: 10px 10px;
@@ -52,4 +58,22 @@ body {
 
 .Know_more_btn:hover {
     color: aqua;
+}
+#carousel-control-prev{
+    left: 40px;
+    top: 60px;
+}
+.carousel-control-prev-icon {
+    background-color:green;
+    border-radius: 50% ;
+    padding: 25px;
+}
+#carousel-control-next{
+    right: 40px;
+    top: 60px;
+}
+.carousel-control-next-icon {
+    background-color:green;
+    border-radius: 50% ;
+    padding: 25px;
 }
