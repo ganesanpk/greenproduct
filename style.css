@@ -1,23 +1,55 @@
-
-body{
+body {
     margin: 0 auto;
     padding: 0;
 }
-.bg-success{
+
+.bg-success {
     background-color: rgb(8, 66, 8) !important;
 }
+
 .navbar {
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
 }
 
 .navbar.sticky-top {
-    background-color: #728a57; /* Set the background color when sticky */
+    background-color: #728a57;
+    /* Set the background color when sticky */
 }
-.bg_banner{
+
+.bg_banner {
     background-color: rgb(147, 184, 147);
 }
-.carousel_width{
+
+.carousel_width {
     width: 90%;
     margin: 0 auto;
+}
+
+/* card  */
+
+.card {
+    height: 450px;
+}
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+
+.knowMore_btn_container {
+    background-color: #728a57;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.Know_more_btn {
+    font-size: 22px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.Know_more_btn:hover {
+    color: aqua;
 }
