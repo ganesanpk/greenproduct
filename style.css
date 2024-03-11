@@ -15,7 +15,7 @@ body{
     background-color: #728a57; /* Set the background color when sticky */
 }
 .bg_banner{
-    background-color: rgb(147, 184, 147);
+    background-color: rgba(237, 242, 239, 0.926);
 }
 .carousel_width{
     width: 90%;
