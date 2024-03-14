@@ -95,3 +95,10 @@ body {
 .img-card{
     padding: 5px;
 }
+.go_back{
+    text-decoration: none;
+    color: #7cca23;
+}
+.go_back:hover{
+    color: #89ff03 !important;
+}
