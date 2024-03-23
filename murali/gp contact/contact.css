@@ -1,0 +1,22 @@
+.bor{
+    border: 5px solid black;
+}
+.bor1{
+    border: 1px solid rgb(194, 192, 192);
+    border-radius: 5px;
+}
+.bor2{
+    border-top: 1px solid rgb(194, 192, 192);
+}
+.mar0{
+    margin: 0 auto;
+}
+.w90{
+    width: 90%;
+}
+.bg1{
+    background-color: rgb(95, 94, 23);
+}
+.bg2{
+    background-color: rgb(87, 129, 165);
+}
