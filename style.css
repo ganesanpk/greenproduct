@@ -42,6 +42,7 @@ body {
 .card {
     height: 450px;
     border: none !important;
+    border-radius: 3.25rem !important;
 }
 
 .card:hover {
@@ -53,21 +54,25 @@ body {
 .card_title_text{
     background-color: #68c500;
     padding: 2px 8px;
-    border-bottom-left-radius: 6px;
-    /* border-radius: 20px; */
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     color: #fff;
 }
 .knowMore_btn_container {
-    background-color: #3b7000;
-    margin: 10px 10px;
+    margin-top: 20px;
     text-align: center;
-    border-radius: 20px;
+   
 }
 
 .Know_more_btn {
-    font-size: 22px;
+    background-color: #3b7000;
+    border-radius: 20px;
+    font-size: 20px;
     text-decoration: none;
     color: #fff;
+    padding: 0px 10px 5px;
 }
 
 .Know_more_btn:hover {
