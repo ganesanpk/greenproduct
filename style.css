@@ -14,12 +14,12 @@ body {
     font-style: italic;
   } */
 
-  .eb-garamond-<uniquifier> {
+  /* .eb-garamond-<uniquifier> {
     font-family: "EB Garamond", serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-  }
+  } */
   .poppins-thin {
     font-family: "Poppins", sans-serif;
     font-weight: 100;
